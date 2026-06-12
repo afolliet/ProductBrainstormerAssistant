@@ -9,6 +9,9 @@ An AI-powered product ideation and marketing concept generator designed to help 
 View the app in Google AI Studio:  
 https://ai.studio/apps/e830756d-4bbf-4548-866e-3774e334bf44
 
+![Proof](ProductIdeation1.png)
+![Proof2](ProductIdeation2.png)
+
 ---
 
 ## Problem
